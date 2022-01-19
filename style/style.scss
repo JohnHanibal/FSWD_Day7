@@ -1,1 +1,70 @@
 @import "partials/variables";
+
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+
+
+
+}
+
+
+.main{
+    display:flex;
+    justify-content: center;
+    flex-wrap:wrap;
+
+
+    .containerwinter{
+
+       
+
+    }
+
+}
+
+
+@media screen and(max-width:900px){
+
+    .header{
+        
+    }
+    
+    .container{
+
+
+        .photo{
+
+            
+
+        }
+    }
+
+
+}
+
+
+
+@media screen and(max-width:500px){
+
+    .header{
+        
+    }
+
+    .container{
+
+
+        .photo{
+
+            
+
+        }
+    }
+
+    
+}
+
+
